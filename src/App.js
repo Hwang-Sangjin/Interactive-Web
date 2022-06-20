@@ -1,5 +1,6 @@
 
 import Card from'./components/card';
+import SlideCard from'./components/slideCard';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <main>
         <header>
           <Card></Card>
+          <SlideCard></SlideCard>
         </header>
       </main>
     </div>

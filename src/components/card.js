@@ -1,4 +1,4 @@
-import Images from'../images.jpg'
+import Images from'../images/paris.jpg'
 import '../css/card.css'
 import LocalBarIcon from '@mui/icons-material/LocalBar';
 import TheatersIcon from '@mui/icons-material/Theaters';
