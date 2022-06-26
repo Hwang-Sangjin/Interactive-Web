@@ -11,6 +11,7 @@
   cursor: pointer;
   transition: all .25s ease;
   backface-visibility: hidden;
+  margin:auto
 }
 
 .card:hover {
@@ -65,7 +66,7 @@
 .card .con-text p {
   font-size: .8rem;
   opacity: 0;
-  margin-bottom: -170px;
+  margin-bottom: -165px;
   transition: all .25s ease;
   display: flex;
   align-items: center;
